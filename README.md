@@ -17,33 +17,47 @@ Discover news from your favorite media houses. The app allows users to select sp
 Getting Started
 To run the Flash News Flutter app locally, follow these steps:
 
-Prerequisites
+# Prerequisites
 Make sure you have Flutter and Dart installed on your development environment.
-Obtain a News API key from News API and replace 'YOUR_API_KEY' in the code with your actual API key.
-Installation
+# Obtain a News API key from News API and replace 'YOUR_API_KEY' in the code with your actual API key.
+# Installation
 Clone the repository:
+
 bash
+
 Copy code
-git clone https://github.com/your-username/flash-news.git
+
+git clone https://github.com/MohittGandhi/flash-news.git
+
 Navigate to the project directory:
+
 cd flash-news
-Install dependencies:
+
+# Install dependencies:
 flutter pub get
+
 Run the app:
+
 flutter run
-Configuration
+
+# Configuration
 In order to use the News API, you need to obtain an API key. Replace 'YOUR_API_KEY' with your actual API key in the relevant parts of the code.
 
 dart
 // Replace 'YOUR_API_KEY' with your actual News API key
+
 final String apiKey = 'YOUR_API_KEY';
+
 final String apiUrl = 'https://newsapi.org/v2';
-Contributing
+
+# Contributing
 Contributions are welcome! Feel free to open issues, create pull requests, or suggest new features to improve the Flash News Flutter app.
 
-License
+
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
 Special thanks to News API for providing the news data.
+
 Happy reading with Flash News! 📰🚀
