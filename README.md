@@ -1,17 +1,17 @@
-Flash News Flutter App
+# Flash News
 Flash News is a Flutter mobile application that allows users to stay updated with the latest news from around the world. It utilizes the News API to fetch real-time news data, offering features such as news search, news categories, and filtering news by specific country and media house.
 
 Features
-1. News Search
+# 1. News Search
 Easily search for news articles using keywords relevant to your interests. The search functionality provides quick access to specific news topics.
 
-2. News Categories
+# 2. News Categories
 Explore news articles categorized into various topics such as Business, Technology, Health, Entertainment, and more. Stay informed on your preferred subjects effortlessly.
 
-3. News by Country
+# 3. News by Country
 Filter news articles based on specific countries. Customize your news feed to focus on events and updates from your chosen geographic locations.
 
-4. News by Media House
+# 4. News by Media House
 Discover news from your favorite media houses. The app allows users to select specific sources, ensuring a tailored news experience based on their preferred news outlets.
 
 Getting Started
